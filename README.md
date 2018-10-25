@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This application is used to help github users with sending pull requests and other changes.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It gives you 'AI' bots that help you through the learning process.
 
 ## Getting started
 
